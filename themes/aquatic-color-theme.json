@@ -2,7 +2,7 @@
 	"name": "aquatic",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#292929",
+		"editor.background": "#222222",
 		"editor.foreground": "#a9b7c6",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
