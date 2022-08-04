@@ -211,6 +211,13 @@
 			}
 		},
 		{
+			"name": "support type exception",
+			"scope": "support.type.exception",
+			"settings": {
+				"foreground": "#8e343d"
+			}
+		},
+		{
 			"name": "built-in type",
 			"scope": "support.function.builtin",
 			"settings": {
