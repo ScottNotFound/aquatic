@@ -44,15 +44,6 @@
 				"foreground": "#045250"
 			}
 		},
-		// {
-		// 	"name": "variable other",
-		// 	"scope": [
-		// 		"variable.other"
-		// 	],
-		// 	"settings": {
-		// 		"foreground": "#8888C6"
-		// 	}
-		// },
 		{
 			"name": "operator",
 			"scope": "keyword.operator",
@@ -168,13 +159,6 @@
 				"foreground": "#5caeb9"
 			}
 		},
-		// {
-		// 	"name": "function argument",
-		// 	"scope": "meta.function-call.arguments",
-		// 	"settings": {
-		// 		"foreground": "#a9b7c6"
-		// 	}
-		// },
 		{
 			"name": "constant literal",
 			"scope": "constant.language",
@@ -281,9 +265,6 @@
 				"foreground": "#cc7832"
 			}
 		},
-
-		// regex
-
 		{
 			"name": "regex",
 			"scope": "string.regexp",
@@ -371,23 +352,6 @@
 				"foreground": "#97fd44"
 			}
 		},
-		// {
-		// 	"name": "python regex background",
-		// 	"scope": "source.python string.regexp",
-		// 	"settings": {
-		// 		"background": "#292929",
-		// 	}
-		// },
-		
-		// python
-
-		// {
-		// 	"name": "python def",
-		// 	"scope": "storage.type.function.python",
-		// 	"settings": {
-		// 		"fontStyle": "italic"
-		// 	}
-		// },
 		{
 			"name": "python lambda",
 			"scope": "storage.type.function.lambda.python",
