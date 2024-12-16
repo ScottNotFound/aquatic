@@ -146,6 +146,7 @@
 				"keyword.operator",
 				"keyword.operator.arithmetic",
 				"storage.modifier.reference",
+				"storage.modifier.pointer",
 				"punctuation.section.angle-brackets",
 				"entity.name.function.operator.member"
 			],
@@ -301,10 +302,22 @@
 			"name": "docstring",
 			"scope": [
 				"string.quoted.docstring",
-				"comment.block.javadoc"
+				"comment.block.javadoc",
+				"comment.line.double-slash.documentation",
+				"comment.block.documentation",
 			],
 			"settings": {
 				"foreground": "#629755"
+			}
+		},
+		{
+			"name": "doxy keyword",
+			"scope": [
+				"storage.type.class.doxygen"
+			],
+			"settings": {
+				"foreground": "#629755",
+				"fontStyle": "bold"
 			}
 		},
 		{
