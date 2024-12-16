@@ -1,22 +1,25 @@
 {
-    "name": "aquatic",
-    "publisher": "scottnotfound",
-    "displayName": "aquatic",
-    "description": "An aquatic theme.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "1.60.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "aquatic",
-                "uiTheme": "vs-dark",
-                "path": "./themes/aquatic-color-theme.json"
-            }
-        ]
-    }
+	"name": "aquatic",
+	"publisher": "scottnotfound",
+	"displayName": "aquatic",
+	"description": "An aquatic theme.",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "1.96.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "aquatic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/aquatic-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 50100
+	}
 }
