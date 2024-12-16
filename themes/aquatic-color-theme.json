@@ -109,6 +109,7 @@
 				"storage.type.primitive",
 				"storage.type.built-in.primitive",
 				"storage.type.namespace",
+				"storage.type.template",
 				"variable.language.this"
 			],
 			"settings": {
@@ -233,7 +234,10 @@
 		},
 		{
 			"name": "support type",
-			"scope": "support.type",
+			"scope": [
+				"support.type",
+				"entity.name.type.template"
+			],
 			"settings": {
 				"foreground": "#3791aa"
 			}
